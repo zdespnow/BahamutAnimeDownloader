@@ -1,7 +1,3 @@
-# Bahamut Anime Downloader
-
-Download anime from [動畫瘋](https://ani.gamer.com.tw/)
-
 ## Installation
 This program uses ffmpeg to merge the chunk file and output the video with the original codecs.
 
